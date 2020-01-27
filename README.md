@@ -9,3 +9,11 @@ youtube.com/watch?v=Z0RlhHuw6hk&list=PL4iwH9RF8xHlxBrCZImFELtiew3TneihE
 
 typescriptlang.org/play/index.html
 
+Conhecimentos aperfeiçoados:
+
+
+Utilizar plugins:
+  Live Server
+  Live Share
+
+Utilizar git e github 
